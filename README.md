@@ -47,9 +47,9 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p>
-<a href="https://bit.ly/adekanye-timilehin-portfolio"><img alt="Website" src="https://img.shields.io/badge/Website-My%20Portfolio-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://linkedin.com/adekanye-timilehin/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Adekanye%20Timilehin%20-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto:adekanyetimilehin2000@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-adekanyetimilehin2000@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a target="_blank" href="https://bit.ly/adekanye-timilehin-portfolio"><img alt="Website" src="https://img.shields.io/badge/Website-My%20Portfolio-blue?style=flat-square&logo=google-chrome"></a>
+<a target="_blank" href="https://www.linkedin.com/in/adekanye-timilehin/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Adekanye%20Timilehin%20-blue?style=flat-square&logo=linkedin"></a>
+<a target="_blank" href="mailto:adekanyetimilehin2000@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-adekanyetimilehin2000@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 <!--
 - 🔭 I’m currently working on ...
