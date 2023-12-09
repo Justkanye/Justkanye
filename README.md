@@ -22,6 +22,7 @@
   [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
   [![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typeScript&logoColor=white)](https://www.typescriptlang.org/)
   [![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)](https://react.dev/)
+  [![Nextjs](https://img.shields.io/badge/-Nextjs-333333?style=flat&logo=nextdotjs)](https://nextjs.org/)
   [![React Native](https://img.shields.io/badge/React%20Native-333333?logo=react)](https://reactnative.dev/)
   [![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 - 🛢 &nbsp;
