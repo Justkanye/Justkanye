@@ -3,9 +3,9 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science and Economics at Obafemi Awolowo University.
-- 🌱 &nbsp; I’m currently learning Game development ( C++ & C# ) and Data Science.
-- ✍️ &nbsp; Pursuing Web and mobile app development as hobbies/side hustles.
+- 🎓 &nbsp; Studied Computer Science and Economics at Obafemi Awolowo University.
+- 🌱 &nbsp; I’m currently learning Game development ( C++ & Unreal Engine ).
+- ✍️ &nbsp; Pursuing Web and mobile app development.
 - ⚡ &nbsp; Fun fact: My love for games was what drove me towards software development
 
 ### 🛠 &nbsp;Tech Stack
